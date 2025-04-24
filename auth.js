@@ -1,0 +1,1 @@
+// Auth routes with JWT, MongoDB, and Nodemailer
